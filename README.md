@@ -3,9 +3,9 @@ Upload a meeting auido file (eg. *.mp3) , transcribe the audio use AssemblyAI. A
 
 # Run locally in windows
 ## Install dependencies
-...
-
-
+```CMD
+pip install -r requirement
+```
 
 ## Run streamlit
 ```CMD
