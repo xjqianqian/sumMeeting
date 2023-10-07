@@ -14,3 +14,4 @@ streamlit run summeeting.py
 
 # To Be Done
 1. Update the old code with endpoint to the latest AAI SDK 'transcriber'.
+2. Add progress bar to see the transcribing progress
