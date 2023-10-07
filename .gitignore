@@ -17,7 +17,6 @@ ENV/
 env.bak/
 venv.bak/
 config.py
-tests/
 
 # Distribution / packaging
 .Python
